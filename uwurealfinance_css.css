@@ -1,0 +1,39 @@
+html {background-color:  #0d9e9c;}
+#Webname{margin-top:10%;
+         margin-left:38%;
+		 margin-bottom:0px;
+		 color: #bfe6e6;
+		 padding-bottom:0px;
+         font-family: 'Cardo';font-size: 22px;
+		 letter-spacing:3px;}
+#Welcome{margin-top:0px;
+         padding-top:0px;
+         margin-left:32%;
+		 text-transform: uppercase;
+		 letter-spacing: 6px;
+		 font-family: 'Oswald';font-size: 120px;
+		 color: #e6f5f5;}
+#body{background-color: #33ada3;}
+
+.buttons{float:left;
+         list-style-type: none;
+		 margin-left:10%;
+		 color: #bfe6e6;
+		 margin-bottom:30%;
+		 }
+a:link{font-family: 'Cardo';font-size: 22px;
+       color: #bfe6e6;
+	   text-decoration: none;}
+
+a:visited {font-family: 'Cardo';font-size: 22px;
+color: #bfe6e6;
+text-decoration: none;}
+
+a:hover {font-family: 'Cardo';font-size: 22px;
+        color:#33ada3;
+        background-color:#bfe6e6;
+		padding-top:7px;
+		padding-bottom:7px;
+		padding-left:12px;
+		padding-right:12px;
+		text-decoration: none;}
